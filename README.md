@@ -3,7 +3,7 @@ Make the javascript stack trace of error more friendly and readable with colorfu
 
 ## How to use
 ### Install
-```npm -i beautify-tracejs```
+```npm install beautify-tracejs```
 
 ### Example usage
 ``` 
