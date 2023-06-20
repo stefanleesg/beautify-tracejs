@@ -1,0 +1,39 @@
+{
+  "name": "beautify-tracejs",
+  "version": "1.0.0",
+  "description": "Make the javascript stack trace more beauty and readable with colorful and code snippet",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha test/index.test.js"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanleesg/beautify-tracejs.git"
+  },
+  "keywords": [
+    "stack",
+    "trace",
+    "beautify",
+    "pretty",
+    "color",
+    "snippet",
+    "javascript"
+  ],
+  "engines": {
+    "node": ">=0.12",
+    "npm": ">=1.4"
+  },
+  "author": "Stefan Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stefanleesg/beautify-tracejs/issues"
+  },
+  "homepage": "https://github.com/stefanleesg/beautify-tracejs#readme",
+  "devDependencies": {
+    "mocha": "^10.2.0",
+    "request": "^2.88.2"
+  }
+}
