@@ -52,7 +52,7 @@ node_modules/mocha/lib/runnable.js:354:5)
     at process.callbackTrampoline (node:internal/async_hooks:130:17)
 ```
 
-```angular2html
+```javascript
 Error: Stack trace after beautify-tracejs register
     at Context.<anonymous> (/Users/stefanlee/projects/beautify-tracejs/test/index.test.js:13:19)
     ────────────────────────────────────────────────────────────────────────────────────────────────────────────
