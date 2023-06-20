@@ -1,6 +1,6 @@
 {
   "name": "beautify-tracejs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Make the javascript stack trace more beauty and readable with colorful and code snippet",
   "main": "lib/index.js",
   "scripts": {
